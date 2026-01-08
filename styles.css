@@ -494,10 +494,12 @@ display: flex;
 
 /* media queries for web responsive */
 
-@media (max-width:991px){
+@media (max-width:1700px){
     html{
-        font-size: 55%;
-    }
+        
+    }    #testimonials {
+        flex-direction: column;
+}
     .header{
         padding: 1.3rem 3rem;
     }
