@@ -497,9 +497,7 @@ display: flex;
 @media (max-width:1700px){
     html{
         
-    }    #testimonials {
-        flex-direction: column;
-}
+    }   
     .header{
         padding: 1.3rem 3rem;
     }
@@ -511,7 +509,7 @@ display: flex;
 
 @media (max-width:768px) {
     #menu-bar{
-        display: inline-block;
+                flex-direction: column;
     }
     .header .navbar{
         position: absolute;
@@ -539,6 +537,6 @@ display: flex;
 
 @media (max-width:600px){
     html{
-        font-size: 50%;
+                flex-direction: column;
     }
 }
