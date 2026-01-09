@@ -510,6 +510,8 @@ display: flex;
 @media (max-width:768px) {
     #menu-bar{
                 flex-direction: column;
+display: flex;
+   
     }
     .header .navbar{
         position: absolute;
