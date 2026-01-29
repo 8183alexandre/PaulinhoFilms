@@ -329,12 +329,12 @@ section.especialidade .flex{
 
 section.sobre{
 padding: 100px 4%;
-
+margin-top:20px;
 }
 
 section.sobre .flex{
     align-items: center;
-    gap: 30px;
+    gap: 60px;
 }
 
 .sobre .txt-sobre{
