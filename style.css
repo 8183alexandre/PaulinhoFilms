@@ -329,7 +329,7 @@ section.especialidade .flex{
 
 section.sobre{
 padding: 100px 4%;
-margin-top:20px;
+
 }
 
 section.sobre .flex{
@@ -367,7 +367,7 @@ margin-bottom: 30px;
 .img-sobre img{
 
     border-radius: 25px;
-    
+    margin-top:15px;
 }
 
 .btn-social button{
