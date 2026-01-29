@@ -328,13 +328,13 @@ section.especialidade .flex{
 /*ESTILO DO SOBRE*/
 
 section.sobre{
-padding: 100px 4%;
+padding: 60px 4%;
 
 }
 
 section.sobre .flex{
     align-items: center;
-    gap: 100px;
+    gap: 60px;
 }
 
 .sobre .txt-sobre{
