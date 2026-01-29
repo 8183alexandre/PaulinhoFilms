@@ -492,10 +492,10 @@ display: flex;
 
 /* media queries for web responsive */
 
-@media (max-width:991px){
+@media (max-width:1700px){
     html{
-        font-size: 55%;
-    }
+        
+    }   
     .header{
         padding: 1.3rem 3rem;
     }
@@ -507,7 +507,7 @@ display: flex;
 
 @media (max-width:768px) {
     #menu-bar{
-        display: inline-block;
+                flex-direction: column;
     }
     .header .navbar{
         position: absolute;
@@ -535,6 +535,6 @@ display: flex;
 
 @media (max-width:600px){
     html{
-        font-size: 50%;
+                flex-direction: column;
     }
 }
